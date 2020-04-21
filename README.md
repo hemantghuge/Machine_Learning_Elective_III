@@ -1,4 +1,4 @@
-# Machine-Learning---Elective-III
+# Machine_Learning  Elective-III
 SPPU - BE ENTC (2015 Pattern)
 
 404191 - Machine Learning
