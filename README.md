@@ -14,4 +14,4 @@ SPPU - BE ENTC (2015 Pattern)
 :x: 7. Implement and test Multiclass SVM classifier.<br/>
 :x: 8. Implement and test CNN for Object Recognition.<br/>
 
-### **Help me to complete above Laboratory Experiment**
+### **Let's complete above Laboratory Experiment in this LockDown**
