@@ -11,7 +11,7 @@ SPPU - BE ENTC (2015 Pattern)
 :x: 4. Implement and Test RBF network.<br/>
 :x: 5. Test & Implement Kohnen Self Organizing Feature Map.<br/>
 :x: 6. Implement SVM classifier for classification of data into two classes.<br/>
-:x: 7. Implement and test Multiclass SVM classifier.<br/>
-:x: 8. Implement and test CNN for Object Recognition.<br/>
+:heavy_check_mark: 7. Implement and test Multiclass SVM classifier.<br/>
+:heavy_check_mark: 8. Implement and test CNN for Object Recognition.<br/>
 
 ### **Let's complete above Laboratory Experiment in this LockDown**
