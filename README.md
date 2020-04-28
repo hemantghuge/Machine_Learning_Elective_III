@@ -14,4 +14,7 @@ SPPU - BE ENTC (2015 Pattern)
 :heavy_check_mark: 7. Implement and test Multiclass SVM classifier.<br/>
 :heavy_check_mark: 8. Implement and test CNN for Object Recognition.<br/>
 
+### Extra Algorithms
+:heavy_check_mark: Perceptron
+
 ### **Let's complete above Laboratory Experiment in this LockDown**
